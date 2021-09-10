@@ -1,0 +1,14 @@
+.vscode
+.DS_Store
+
+# Intellij
+.idea
+*.iml
+
+# F#
+*.sln.DotSettings.user
+.fake
+.ionide
+bin/
+obj/
+
